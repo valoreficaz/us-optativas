@@ -1,2 +1,2 @@
-# IEEA2021
-Instalaciones y Equipos Eléctricos Auxiliares - Curso 2021
+# IEEA
+Instalaciones y Equipos Eléctricos Auxiliares
